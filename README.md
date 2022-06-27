@@ -4,9 +4,13 @@
 ## Description 
 This app is a command-line application to manage a company's employee database, using Node.js, Inquirer, and MySQL.
 
+## demo
+https://drive.google.com/file/d/1e3tyu-TBdrGeA_v3-eXP47D13oDWWfnL/view
+
 
 ## github link 
 https://github.com/neiman924
+https://github.com/neiman924/Employee-Tracker
 
 ## Table of Contents
 
